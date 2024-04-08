@@ -1,3 +1,5 @@
+
+
 function About(){
     return(
         <>
@@ -5,6 +7,7 @@ function About(){
             <h1>
                 about page
             </h1>
+           
         </main>
         </>
     )
